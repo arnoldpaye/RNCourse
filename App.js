@@ -1,6 +1,10 @@
 import { Button, StyleSheet, Text, TextInput, View } from "react-native";
 
 export default function App() {
+  function goalInputHandler() {}
+
+  function addGoalHandler() {}
+
   return (
     <View style={styles.appContainer}>
       <View style={styles.inputContainer}>
